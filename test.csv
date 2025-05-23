@@ -1,0 +1,3 @@
+id,tumor_bam,tumor_bai,normal_bam,normal_bai
+gatk1,data/gatk/gatk_somatic_tumor.bam,data/gatk/gatk_somatic_tumor.bam.bai,data/gatk/gatk_somatic_normal.bam,data/gatk/gatk_somatic_normal.bam.bai
+gatk2,data/gatk/gatk_somatic_tumor.bam,data/gatk/gatk_somatic_tumor.bam.bai,data/gatk/gatk_somatic_normal.bam,data/gatk/gatk_somatic_normal.bam.bai
