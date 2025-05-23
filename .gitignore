@@ -1,0 +1,6 @@
+.vscode/
+.bash_history
+refs/
+work/
+.nextflow.log*
+.nextflow*
